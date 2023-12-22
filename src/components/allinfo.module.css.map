@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,GAAC,GAAG,CAAA;EACL,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "allinfo.module.scss"
+    ],
+    "names": [],
+    "file": "allinfo.module.css"
+}

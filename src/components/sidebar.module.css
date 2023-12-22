@@ -1,0 +1,8 @@
+.sidebar {
+  color: red;
+}
+
+.sidebar > img {
+  width: 50%;
+}
+/*# sourceMappingURL=sidebar.module.css.map */

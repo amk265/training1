@@ -1,0 +1,35 @@
+@import 'theme.scss';
+.sidebar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: $black;
+    background-color: $primary-color;
+    font-size: 12px;
+    height: 150px;
+    transition: all 0.2s;
+    padding-left: 20px;
+}
+.sidebar>img{
+    transition: all 0.2s;
+    position: absolute;
+    width: 80px;
+    right: -40px;
+    background-color: $primary-color;
+    border: 3px solid $primary-border-color;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+.sidebar>h3{
+    width: 80%;
+    text-align: justify;
+    direction: rtl;
+}
+.active{
+     color: $white;
+     background-color: $secondary-color;
+}
+.active>img{
+     border: 3px solid $gray;
+     background-color: $secondary-color;
+}

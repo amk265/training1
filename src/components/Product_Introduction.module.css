@@ -1,0 +1,22 @@
+.main {
+  width: 80%;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: gray;
+}
+
+.des {
+  width: 70%;
+  border: solid 1px black;
+}
+
+.menu {
+  width: 30%;
+  border: solid 1px black;
+}
+/*# sourceMappingURL=Product_Introduction.module.css.map */
